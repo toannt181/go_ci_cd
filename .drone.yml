@@ -3,7 +3,7 @@ name: default
 
 workspace:
   base: /go
-  path: src/github.com/yourname/go-drone-hello-world
+  path: https://github.com/toannt181/go_ci_cd
 
 steps:
   - name: report
